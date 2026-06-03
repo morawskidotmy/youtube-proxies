@@ -1,0 +1,4 @@
+# YouTube-working proxies (tested against https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+# 2 of 25 proxies passed yt-dlp simulate
+socks4://31.130.132.149:1080
+http://116.80.64.13:3172
