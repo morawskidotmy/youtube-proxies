@@ -3,11 +3,14 @@
 A continuously refreshed list of free public HTTP/SOCKS proxies that **actually
 pass a live yt-dlp probe against YouTube**.
 
-The list is regenerated every hour from a server running
-[proxymanager](https://github.com/morawskidotmy/proxymanager): the pool is
-re-fetched from dozens of public sources, every candidate is dial-tested, and
-only those that successfully simulate a download of a real YouTube video make
-it into [`youtube-proxies.txt`](./youtube-proxies.txt).
+The list is regenerated every hour from a server running `proxymanager`: the
+pool is re-fetched from dozens of public sources, every candidate is
+dial-tested, and only those that successfully simulate a download of a real
+YouTube video make it into [`youtube-proxies.txt`](./youtube-proxies.txt).
+
+> [!NOTE]
+> `proxymanager` itself is a **private repository** and is not publicly
+> available. This repo only publishes the output it produces.
 
 > [!NOTE]
 > These are **public, untrusted** proxies. They go up and down constantly,
