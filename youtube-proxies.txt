@@ -1,4 +1,4 @@
 # YouTube-working proxies (tested against https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-# 2 of 316 proxies passed yt-dlp simulate
-http://45.155.102.216:3128
-http://212.58.132.5:8888
+# 2 of 278 proxies passed yt-dlp simulate
+http://47.84.204.82:443
+http://111.235.151.112:8443
