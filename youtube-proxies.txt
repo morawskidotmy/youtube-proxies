@@ -1,7 +1,5 @@
 # YouTube-working proxies (tested against https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-# 5 of 225 proxies passed yt-dlp simulate
-socks5://91.132.59.221:1080
+# 3 of 213 proxies passed yt-dlp simulate
 http://95.211.174.135:3128
-socks4://213.176.113.24:50001
-http://140.238.32.108:3128
-socks5://206.123.156.217:4214
+http://176.111.37.5:39811
+http://217.123.140.50:8888
